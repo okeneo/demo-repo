@@ -3,4 +3,4 @@
 
 ## Sub Header
 
-** Some Description **
+**Some Description**
